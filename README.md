@@ -9,4 +9,4 @@ War = Yes?
 
 The raw data on government voting is taken from [GovTrack](govtrack.us).
 
-The raw data on military conflicts is pulled from the [COW-Project] http://www.correlatesofwar.org/
+The raw data on military conflicts is pulled from the [COW-Project](http://www.correlatesofwar.org/).
